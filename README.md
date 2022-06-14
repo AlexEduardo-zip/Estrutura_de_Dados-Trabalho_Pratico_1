@@ -6,8 +6,6 @@
 
 **Alex Eduardo Alves dos Santos**
 
-**Matrícula: 2021032145**
-
 Departamento de Ciência da Computação - Universidade Federal de Minas Gerais (UFMG)
 
 Belo Horizonte – MG – Brasil
